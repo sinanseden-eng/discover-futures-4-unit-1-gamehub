@@ -1,31 +1,27 @@
-# Discover Futures 4 · Unit 1 WordLab Arcade
+# Civic Courage Game Hub
 
-A classroom-ready game hub for Oxford Discover Futures 4, Unit 1. It combines 11 replayable activities with all 29 target words and their collocations, prepositions, phrases, word families, synonyms, antonyms, common mistakes, and B2 production challenges.
+A classroom-ready vocabulary hub about civil courage, conflict, character and resilience. It preserves the rule structures of five games from the Discover Futures music-idioms game set while fully retheming the vocabulary, prompts, scoring labels and visual design.
 
-## Included games
+## Games
 
-- Association Fleet
-- Vocabulary Rush
-- Word Decoder
-- Conceptual Links
-- Defuse the Soundcheck
-- Studio Clash
-- WordLab Jeopardy
-- Chart-Topper Ladder
-- Festival Shuffle
-- Confidence Remix
-- Music Mogul
+- **Accord Armada** — Battleship mechanics
+- **Civic Influence Mogul** — Music Mogul mechanics using classroom influence points
+- **Voices Unlocked** — Lyric Decoder mechanics without copyrighted lyrics
+- **Virtue Ascent** — Chart Top Ladder mechanics
+- **Council Challenge** — Music Jeopardy mechanics
+
+## Vocabulary coverage
+
+The hub uses all supplied words and associated forms, including `civil/civilian`, `back/backing`, `defy/defiance`, `oppress/oppression/oppressive`, `accord/accordance/accordingly`, `loathe/loathsome`, and the remaining target vocabulary.
 
 ## Run locally
 
-Open `index.html` in a modern browser. No installation, account, API key, or build command is required.
+Open `index.html` in a modern browser. No account, API key, package installation or build command is required.
 
-## Deploy on Netlify
+## Netlify
 
-Import this repository in Netlify. Netlify will read `netlify.toml` automatically:
+Import the repository into Netlify. The included `netlify.toml` sets the publish directory to the repository root. Leave the build command empty.
 
-- Build command: none
-- Publish directory: `.`
+## Images
 
-Every push to the default GitHub branch will trigger a fresh deployment.
-
+The page uses classroom-safe thematic photographs served remotely by Unsplash. An internet connection is required for those photographs; all games themselves work without external APIs.
